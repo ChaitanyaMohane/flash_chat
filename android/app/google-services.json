@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828038005008",
+    "firebase_url": "https://flash-chat-5a681.firebaseio.com",
+    "project_id": "flash-chat-5a681",
+    "storage_bucket": "flash-chat-5a681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828038005008:android:d82c1aab6db5e48beea595",
+        "android_client_info": {
+          "package_name": "co.chaitanya.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828038005008-9dq9kc4750kmckbp2ibft0q68ahtrl7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqMqFmGttjUSBjGUxR_m2L13i6V6LbPkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828038005008-9dq9kc4750kmckbp2ibft0q68ahtrl7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
